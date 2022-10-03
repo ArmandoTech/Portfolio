@@ -332,3 +332,8 @@ body {
     width: 80%;
   }
 }
+
+.unorderedList {
+  display: flex;
+  justify-content: space-between;
+}
